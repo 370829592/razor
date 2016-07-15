@@ -1,4 +1,21 @@
+主要产品特性：
+•独立的数据分析平台
+•方便快捷的用户操作界面
+•实时的数据分析 *
+•多语言的支撑
+•支持多渠道/多产品
+•软件的自动更新支持
+•分析客户端崩溃的错误日志
 
+为什么使用Cobub Razor：
+
+•私有的客户端应用的分析数据
+•国际化的开源社区平台
+•对接其他系统数据的可能性
+•分析客户端应用的各项数据，挖掘最大化的商业价值
+•具有优化用户体验的第一手资料
+
+目前Cobub Razor支持苹果的iOS 和 Android 系统。您可以在http://dev.cobub.com 找到更多的的详尽信息并进行下载。
 Cobub Razor - Open Source Mobile Analytics
 =============
 [![Cobub Razor](http://www.cobub.com/docs/lib/tpl/dokuwiki/images/logo.png)](http://www.cobub.com)
